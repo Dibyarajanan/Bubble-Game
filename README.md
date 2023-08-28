@@ -1,8 +1,12 @@
 # Bubble Game
 
-![Game Screenshot](screenshot.png) <!-- Add a screenshot of your game if you have one -->
+**Game Screenshot**
 
-A simple web-based bubble popping game built using HTML, CSS, and JavaScript.
+
+![Screenshot 2023-08-28 135726](https://github.com/Dibyarajanan/Bubble-Game/assets/130889237/153eefc8-c3fc-44ff-8aa3-0b0a5a2a09ea)
+ <!-- Add a screenshot of your game if you have one -->
+
+A simple web-based bubble-popping game built using HTML, CSS, and JavaScript.
 
 ## Table of Contents
 - [Demo](#demo)
