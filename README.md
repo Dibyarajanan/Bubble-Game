@@ -1,6 +1,6 @@
 # Bubble Game
 
-dibyarajanan.github.io/Bubble-Game/
+https://dibyarajanan.github.io/Bubble-Game/
    
 **Game Screenshot**
 
