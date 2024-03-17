@@ -23,7 +23,7 @@ A simple web-based bubble-popping game built using HTML, CSS, and JavaScript.
 Add a link to a live demo of your game if available.
 
 ## Description
-The Bubble Game is a browser-based game where the player clicks on bubbles to pop them and increase their score within a time limit. This project serves as a fun example of using front-end technologies to create an interactive game.
+The Bubble Game.
 
 ## Features
 - Bubbles with random numbers appear on the screen.
